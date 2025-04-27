@@ -1,10 +1,11 @@
-# Hey, devs 👋
-My name is Dylan and I'm a Junior Dev! I'm also a software engineering student, and currently, I work on creating scripts and tools in Python for a public ministry in Brazil. Come check out my projects in other languages! 
 <div>
 <a href="https://github.com/dylancavalcante">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylancavalcante&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dylancavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+# Hey, devs 👋
+My name is Dylan and I'm a Junior Dev! I'm also a software engineering student, and currently, I work on creating scripts and tools in Python for a public ministry in Brazil. Come check out my projects in other languages! 
   
 ## :smile_cat: My languages and tools:
 
@@ -31,7 +32,6 @@ My name is Dylan and I'm a Junior Dev! I'm also a software engineering student, 
 <a href="https://www.linkedin.com/in/dylan-cavalcante-0037b5240" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
             
-          
           
           
           
