@@ -5,10 +5,10 @@
   </a>
 </div>
 
-# Hey, devs 👋
+# Hey, devs 
 My name is Dylan and I'm a Junior Dev! I'm also a software engineering student, and currently, I work on creating scripts and tools in Python for a public ministry in Brazil. Come check out my projects in other languages! 
 
-## 😸 My languages and tools:
+## My languages and tools:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40"/>
@@ -21,7 +21,7 @@ My name is Dylan and I'm a Junior Dev! I'm also a software engineering student, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />
 </p>
 
-## 🙀 Learning...
+## Learning...
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
