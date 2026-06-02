@@ -29,10 +29,10 @@ class Dylan:
     education  = "Software Engineering @ UnB"
     work       = "Python scripts & tools @ Public Ministry of Brazil"
     hobbies    = ["coding", "open source", "game dev", "UI design"]
-    currently  = "leveling up in React, Java & C#"
+    currently  = "leveling up in React, PHP & C"
     
     def say_hi(self):
-        print("Thanks for stopping by! Feel free to check my projects 🚀")
+        print("Thanks for stopping by! Feel free to check my projects")
 ```
 
 ---
