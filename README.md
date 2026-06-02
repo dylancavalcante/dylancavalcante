@@ -12,6 +12,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dylancavalcante&color=58a6ff&style=flat-square&label=profile+views)
 ![GitHub followers](https://img.shields.io/github/followers/dylancavalcante?color=58a6ff&logo=github&style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=flat-square&logo=vercel&logoColor=white)](https://dylan-cavalcante-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dylan-cavalcante-0037b5240)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dylanportelacavalcante@gmail.com)
 
@@ -30,6 +31,7 @@ class Dylan:
     work       = "Python scripts & tools @ Public Ministry of Brazil"
     hobbies    = ["coding", "open source", "game dev", "UI design"]
     currently  = "leveling up in React, PHP & C"
+    portfolio  = "https://dylan-cavalcante-portfolio.vercel.app"
     
     def say_hi(self):
         print("Thanks for stopping by! Feel free to check my projects")
@@ -97,7 +99,6 @@ class Dylan:
 
 </details>
 
-
 ---
 
 ## Contribution Graph
@@ -114,6 +115,7 @@ class Dylan:
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://dylan-cavalcante-portfolio.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dylanportelacavalcante@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-cavalcante-0037b5240)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dylancavalcante)
@@ -129,5 +131,3 @@ class Dylan:
 ⭐ **If any of my projects helped you, consider giving it a star!**
 
 </div>
-
-
